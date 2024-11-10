@@ -30,9 +30,8 @@ python-hola-mundo/
 ```
 
 ## Enlace de Docker Hub
-```bash
-https://hub.docker.com/repository/docker/john2713/python-docker-hello-world/general
-```
+**https://hub.docker.com/repository/docker/john2713/python-docker-hello-world/general**
+
 
 ## Dockerización
 **Paso 1: Construir la Imagen Docker**
