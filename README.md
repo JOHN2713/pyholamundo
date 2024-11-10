@@ -31,7 +31,7 @@ python-hola-mundo/
 
 ## Enlace de Docker Hub
 ```bash
-[docker build -t python-hola-mundo .]https://hub.docker.com/repository/docker/john2713/python-docker-hello-world/general
+https://hub.docker.com/repository/docker/john2713/python-docker-hello-world/general
 ```
 
 ## Dockerización
