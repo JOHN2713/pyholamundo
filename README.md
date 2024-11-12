@@ -57,13 +57,6 @@ COPY . .
 CMD ["python", "hello_world.py"]
 ```
 
-## Contribuir
-Las contribuciones son bienvenidas. Por favor, siente libre de:
-1. Hacer fork del proyecto
-2. Crear una nueva rama (`git checkout -b feature/mejora`)
-3. Hacer commit de tus cambios (`git commit -am 'Agrega nueva mejora'`)
-4. Hacer push a la rama (`git push origin feature/mejora`)
-5. Crear un Pull Request
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
